@@ -1,2 +1,3 @@
-fastapi[all]
-requests
+djangorestframework
+django-cors-headers
+pymysql
